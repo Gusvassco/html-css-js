@@ -1,0 +1,9 @@
+MÓDULO 1 - CONTAINER E COLORAÇÃO DE TEXTO E FUNDO
+
+Neste modulo vamos aprender a fazer um container com certas caracteristicas que vá acompanhar um fundo colorido e um texto de coloração a sua escolha!
+
+--Criando container em HTML-- 
+
+Usando uma "div", vamos criar o container com certas informações, nessa parte vamos também usar o "color" para colorir o texto do container e "background-color" para colorir o fundo da nossa "div". Veja o exemplo a seguir:
+
+HTML: 
