@@ -1,0 +1,11 @@
+div{
+    background-color: pink;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+
+}
+div:hover{
+    background-color: aqua;
+}
